@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DecideTuCancha.API.WebAPI",
+    "\\DecideTuCancha.API.WebAPI\\obj\\Debug",
+    "\\DecideTuCancha.API.WebAPI\\obj\\Release",
+    "\\DecideTuCancha.DBContext",
+    "\\DecideTuCancha.DBEntity",
+    "\\DecideTuCancha.DBEntity\\Base",
+    "\\DecideTuCancha.DBEntity\\Model"
+  ],
+  "PreviewInSolutionExplorer": false
+}

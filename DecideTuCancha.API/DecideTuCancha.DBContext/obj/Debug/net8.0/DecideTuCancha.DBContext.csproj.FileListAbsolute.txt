@@ -1,0 +1,45 @@
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBContext.deps.json
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBContext.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBContext.pdb
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBEntity.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBEntity.pdb
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.csproj.AssemblyReference.cache
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.AssemblyInfoInputs.cache
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.AssemblyInfo.cs
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTu.5B7E7656.Up2Date
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\refint\DecideTuCancha.DBContext.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.pdb
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\ref\DecideTuCancha.DBContext.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBContext.deps.json
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBContext.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBContext.pdb
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBEntity.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBEntity.pdb
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.csproj.AssemblyReference.cache
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.AssemblyInfoInputs.cache
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.AssemblyInfo.cs
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.csproj.CoreCompileInputs.cache
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTu.5B7E7656.Up2Date
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\refint\DecideTuCancha.DBContext.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.pdb
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\ref\DecideTuCancha.DBContext.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBContext.deps.json
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBContext.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBContext.pdb
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBEntity.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\bin\Debug\net8.0\DecideTuCancha.DBEntity.pdb
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.csproj.AssemblyReference.cache
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.AssemblyInfoInputs.cache
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.AssemblyInfo.cs
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTu.5B7E7656.Up2Date
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\refint\DecideTuCancha.DBContext.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\DecideTuCancha.DBContext.pdb
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.DBContext\obj\Debug\net8.0\ref\DecideTuCancha.DBContext.dll

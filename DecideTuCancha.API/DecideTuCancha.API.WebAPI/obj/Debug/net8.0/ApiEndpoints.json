@@ -1,0 +1,478 @@
+[
+  {
+    "ContainingType": "DecideTuCancha.API.CanchaController",
+    "Method": "UpdateCancha",
+    "RelativePath": "api/cancha/actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cancha",
+        "Type": "DecideTuCancha.DBEntity.Model.EntityCancha",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.CanchaController",
+    "Method": "DeleteCancha",
+    "RelativePath": "api/cancha/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.CanchaController",
+    "Method": "InsertCancha",
+    "RelativePath": "api/cancha/insertar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cancha",
+        "Type": "DecideTuCancha.DBEntity.Model.EntityCancha",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.CanchaController",
+    "Method": "GetCanchas",
+    "RelativePath": "api/cancha/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.CanchaController",
+    "Method": "GetCancha",
+    "RelativePath": "api/cancha/obtener",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ComplejoController",
+    "Method": "UpdateComplejo",
+    "RelativePath": "api/complejo/actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "complejo",
+        "Type": "DecideTuCancha.DBEntity.Model.EntityComplejo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ComplejoController",
+    "Method": "DeleteComplejo",
+    "RelativePath": "api/complejo/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ComplejoController",
+    "Method": "InsertComplejo",
+    "RelativePath": "api/complejo/insertar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "complejo",
+        "Type": "DecideTuCancha.DBEntity.Model.EntityComplejo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ComplejoController",
+    "Method": "GetComplejos",
+    "RelativePath": "api/complejo/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ComplejoController",
+    "Method": "GetComplejo",
+    "RelativePath": "api/complejo/obtener",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ReservaController",
+    "Method": "UpdateReserva",
+    "RelativePath": "api/reserva/actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reserva",
+        "Type": "DecideTuCancha.DBEntity.Model.EntityReserva",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ReservaController",
+    "Method": "DeleteReserva",
+    "RelativePath": "api/reserva/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ReservaController",
+    "Method": "InsertReserva",
+    "RelativePath": "api/reserva/insertar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reserva",
+        "Type": "DecideTuCancha.DBEntity.Model.EntityReserva",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ReservaController",
+    "Method": "GetReservas",
+    "RelativePath": "api/reserva/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ReservaController",
+    "Method": "GetReservasByCancha",
+    "RelativePath": "api/reserva/listar-por-cancha",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCancha",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ReservaController",
+    "Method": "GetReservasByUsuario",
+    "RelativePath": "api/reserva/listar-por-usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.ReservaController",
+    "Method": "GetReserva",
+    "RelativePath": "api/reserva/obtener",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.SedeController",
+    "Method": "UpdateSede",
+    "RelativePath": "api/sede/actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sede",
+        "Type": "DecideTuCancha.DBEntity.Model.EntitySede",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.SedeController",
+    "Method": "DeleteSede",
+    "RelativePath": "api/sede/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.SedeController",
+    "Method": "InsertSede",
+    "RelativePath": "api/sede/insertar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sede",
+        "Type": "DecideTuCancha.DBEntity.Model.EntitySede",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.SedeController",
+    "Method": "GetSedes",
+    "RelativePath": "api/sede/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.SedeController",
+    "Method": "GetSede",
+    "RelativePath": "api/sede/obtener",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.TipoCanchaController",
+    "Method": "UpdateTipoCancha",
+    "RelativePath": "api/tipocancha/actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoCancha",
+        "Type": "DecideTuCancha.DBEntity.Model.EntityTipoCancha",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.TipoCanchaController",
+    "Method": "DeleteTipoCancha",
+    "RelativePath": "api/tipocancha/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.TipoCanchaController",
+    "Method": "InsertTipoCancha",
+    "RelativePath": "api/tipocancha/insertar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoCancha",
+        "Type": "DecideTuCancha.DBEntity.Model.EntityTipoCancha",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.TipoCanchaController",
+    "Method": "GetTiposCancha",
+    "RelativePath": "api/tipocancha/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.TipoCanchaController",
+    "Method": "GetTipoCancha",
+    "RelativePath": "api/tipocancha/obtener",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.UsuarioController",
+    "Method": "UpdateUsuario",
+    "RelativePath": "api/usuario/actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "DecideTuCancha.DBEntity.Model.EntityUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.UsuarioController",
+    "Method": "DeleteUsuario",
+    "RelativePath": "api/usuario/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.UsuarioController",
+    "Method": "InsertUsuario",
+    "RelativePath": "api/usuario/insertar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "DecideTuCancha.DBEntity.Model.EntityUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.UsuarioController",
+    "Method": "GetUsuarios",
+    "RelativePath": "api/usuario/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DecideTuCancha.API.UsuarioController",
+    "Method": "GetUsuario",
+    "RelativePath": "api/usuario/obtener",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

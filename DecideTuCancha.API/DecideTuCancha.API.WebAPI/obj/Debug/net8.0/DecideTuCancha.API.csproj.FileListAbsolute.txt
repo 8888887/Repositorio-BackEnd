@@ -1,0 +1,135 @@
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.exe
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.deps.json
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.runtimeconfig.json
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.pdb
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBContext.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBEntity.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBContext.pdb
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBEntity.pdb
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.csproj.AssemblyReference.cache
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.AssemblyInfoInputs.cache
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.AssemblyInfo.cs
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DecideTuCancha.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DecideTuCancha.API.props
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DecideTuCancha.API.props
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DecideTuCancha.API.props
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\scopedcss\bundle\DecideTuCancha.API.styles.css
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTu.B958DA86.Up2Date
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\refint\DecideTuCancha.API.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.pdb
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.genruntimeconfig.cache
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\ref\DecideTuCancha.API.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\NSwag.Annotations.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.exe
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.deps.json
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.runtimeconfig.json
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.pdb
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Dapper.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\NSwag.Annotations.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBContext.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBEntity.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBContext.pdb
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBEntity.pdb
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.csproj.AssemblyReference.cache
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.AssemblyInfoInputs.cache
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.AssemblyInfo.cs
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.csproj.CoreCompileInputs.cache
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.MvcApplicationPartsAssemblyInfo.cs
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.MvcApplicationPartsAssemblyInfo.cache
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DecideTuCancha.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DecideTuCancha.API.props
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DecideTuCancha.API.props
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DecideTuCancha.API.props
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\scopedcss\bundle\DecideTuCancha.API.styles.css
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTu.B958DA86.Up2Date
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\refint\DecideTuCancha.API.dll
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.pdb
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.genruntimeconfig.cache
+D:\CCB\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\ref\DecideTuCancha.API.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.exe
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.deps.json
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.runtimeconfig.json
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.API.pdb
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\NSwag.Annotations.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBContext.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBEntity.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBContext.pdb
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\bin\Debug\net8.0\DecideTuCancha.DBEntity.pdb
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.csproj.AssemblyReference.cache
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.AssemblyInfoInputs.cache
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.AssemblyInfo.cs
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DecideTuCancha.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DecideTuCancha.API.props
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DecideTuCancha.API.props
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DecideTuCancha.API.props
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\scopedcss\bundle\DecideTuCancha.API.styles.css
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTu.B958DA86.Up2Date
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\refint\DecideTuCancha.API.dll
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.pdb
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\DecideTuCancha.API.genruntimeconfig.cache
+C:\Users\Personal\Downloads\DecideTuCancha.API\DecideTuCancha.API\DecideTuCancha.API.WebAPI\obj\Debug\net8.0\ref\DecideTuCancha.API.dll

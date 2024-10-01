@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\CanchaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DecideTuCancha.API.WebAPI\\Controllers\\CanchaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DecideTuCancha.API.WebAPI\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\TipoCanchaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DecideTuCancha.API.WebAPI\\Controllers\\TipoCanchaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\SedeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DecideTuCancha.API.WebAPI\\Controllers\\SedeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.DBEntity\\Model\\EntityCancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DecideTuCancha.DBEntity\\Model\\EntityCancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CanchaController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\CanchaController.cs",
+              "RelativeDocumentMoniker": "DecideTuCancha.API.WebAPI\\Controllers\\CanchaController.cs",
+              "ToolTip": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\CanchaController.cs",
+              "RelativeToolTip": "DecideTuCancha.API.WebAPI\\Controllers\\CanchaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:21:29.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "DecideTuCancha.API.WebAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "DecideTuCancha.API.WebAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:21:27.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoCanchaController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\TipoCanchaController.cs",
+              "RelativeDocumentMoniker": "DecideTuCancha.API.WebAPI\\Controllers\\TipoCanchaController.cs",
+              "ToolTip": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\TipoCanchaController.cs",
+              "RelativeToolTip": "DecideTuCancha.API.WebAPI\\Controllers\\TipoCanchaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:21:27.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SedeController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\SedeController.cs",
+              "RelativeDocumentMoniker": "DecideTuCancha.API.WebAPI\\Controllers\\SedeController.cs",
+              "ToolTip": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Controllers\\SedeController.cs",
+              "RelativeToolTip": "DecideTuCancha.API.WebAPI\\Controllers\\SedeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:21:16.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityCancha.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.DBEntity\\Model\\EntityCancha.cs",
+              "RelativeDocumentMoniker": "DecideTuCancha.DBEntity\\Model\\EntityCancha.cs",
+              "ToolTip": "C:\\Users\\Personal\\Downloads\\DecideTuCancha.API\\DecideTuCancha.API\\DecideTuCancha.DBEntity\\Model\\EntityCancha.cs",
+              "RelativeToolTip": "DecideTuCancha.DBEntity\\Model\\EntityCancha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:14:08.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
