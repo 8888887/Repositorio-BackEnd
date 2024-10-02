@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cesar\\Google Drive\\Cursos\\UPC\\2024\\Desarrollo_Entorno_Web\\Proyectos\\ProyectoFinal\\DecideTuCancha.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{249D9CD8-BA6B-4E52-B279-AA8975AF636F}|DecideTuCancha.API.WebAPI\\DecideTuCancha.API.csproj|c:\\users\\cesar\\google drive\\cursos\\upc\\2024\\desarrollo_entorno_web\\proyectos\\proyectofinal\\decidetucancha.api\\decidetucancha.api.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{249D9CD8-BA6B-4E52-B279-AA8975AF636F}|DecideTuCancha.API.WebAPI\\DecideTuCancha.API.csproj|solutionrelative:decidetucancha.api.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D3E989-8F01-49FB-BDA5-947A1ACCF14C}|DecideTuCancha.DBContext\\DecideTuCancha.DBContext.csproj|c:\\users\\cesar\\google drive\\cursos\\upc\\2024\\desarrollo_entorno_web\\proyectos\\proyectofinal\\decidetucancha.api\\decidetucancha.dbcontext\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D3E989-8F01-49FB-BDA5-947A1ACCF14C}|DecideTuCancha.DBContext\\DecideTuCancha.DBContext.csproj|solutionrelative:decidetucancha.dbcontext\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249D9CD8-BA6B-4E52-B279-AA8975AF636F}|DecideTuCancha.API.WebAPI\\DecideTuCancha.API.csproj|c:\\users\\cesar\\google drive\\cursos\\upc\\2024\\desarrollo_entorno_web\\proyectos\\proyectofinal\\decidetucancha.api\\decidetucancha.api.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{249D9CD8-BA6B-4E52-B279-AA8975AF636F}|DecideTuCancha.API.WebAPI\\DecideTuCancha.API.csproj|solutionrelative:decidetucancha.api.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249D9CD8-BA6B-4E52-B279-AA8975AF636F}|DecideTuCancha.API.WebAPI\\DecideTuCancha.API.csproj|c:\\users\\cesar\\google drive\\cursos\\upc\\2024\\desarrollo_entorno_web\\proyectos\\proyectofinal\\decidetucancha.api\\decidetucancha.api.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{249D9CD8-BA6B-4E52-B279-AA8975AF636F}|DecideTuCancha.API.WebAPI\\DecideTuCancha.API.csproj|solutionrelative:decidetucancha.api.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Google Drive\\Cursos\\UPC\\2024\\Desarrollo_Entorno_Web\\Proyectos\\ProyectoFinal\\DecideTuCancha.API\\DecideTuCancha.DBContext\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DecideTuCancha.DBContext\\Base\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\cesar\\Google Drive\\Cursos\\UPC\\2024\\Desarrollo_Entorno_Web\\Proyectos\\ProyectoFinal\\DecideTuCancha.API\\DecideTuCancha.DBContext\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "DecideTuCancha.DBContext\\Base\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:52:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cesar\\Google Drive\\Cursos\\UPC\\2024\\Desarrollo_Entorno_Web\\Proyectos\\ProyectoFinal\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DecideTuCancha.API.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\cesar\\Google Drive\\Cursos\\UPC\\2024\\Desarrollo_Entorno_Web\\Proyectos\\ProyectoFinal\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\appsettings.json",
+              "RelativeToolTip": "DecideTuCancha.API.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T23:36:55.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cesar\\Google Drive\\Cursos\\UPC\\2024\\Desarrollo_Entorno_Web\\Proyectos\\ProyectoFinal\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DecideTuCancha.API.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cesar\\Google Drive\\Cursos\\UPC\\2024\\Desarrollo_Entorno_Web\\Proyectos\\ProyectoFinal\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DecideTuCancha.API.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T05:37:06.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\Google Drive\\Cursos\\UPC\\2024\\Desarrollo_Entorno_Web\\Proyectos\\ProyectoFinal\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DecideTuCancha.API.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\cesar\\Google Drive\\Cursos\\UPC\\2024\\Desarrollo_Entorno_Web\\Proyectos\\ProyectoFinal\\DecideTuCancha.API\\DecideTuCancha.API.WebAPI\\Program.cs",
+              "RelativeToolTip": "DecideTuCancha.API.WebAPI\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:25:36.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

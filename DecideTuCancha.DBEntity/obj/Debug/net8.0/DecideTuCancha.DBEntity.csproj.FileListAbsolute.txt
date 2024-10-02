@@ -1,0 +1,11 @@
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\bin\Debug\net8.0\DecideTuCancha.DBEntity.deps.json
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\bin\Debug\net8.0\DecideTuCancha.DBEntity.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\bin\Debug\net8.0\DecideTuCancha.DBEntity.pdb
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\obj\Debug\net8.0\DecideTuCancha.DBEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\obj\Debug\net8.0\DecideTuCancha.DBEntity.AssemblyInfoInputs.cache
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\obj\Debug\net8.0\DecideTuCancha.DBEntity.AssemblyInfo.cs
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\obj\Debug\net8.0\DecideTuCancha.DBEntity.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\obj\Debug\net8.0\DecideTuCancha.DBEntity.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\obj\Debug\net8.0\refint\DecideTuCancha.DBEntity.dll
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\obj\Debug\net8.0\DecideTuCancha.DBEntity.pdb
+C:\Users\cesar\Google Drive\Cursos\UPC\2024\Desarrollo_Entorno_Web\Proyectos\ProyectoFinal\DecideTuCancha.API\DecideTuCancha.DBEntity\obj\Debug\net8.0\ref\DecideTuCancha.DBEntity.dll
